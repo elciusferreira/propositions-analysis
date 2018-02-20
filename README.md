@@ -1,5 +1,5 @@
 # propositions-analysis
-Análise das proposições feitas entre 1998 e 2016 que estão disponíveis como dados abertos no site da Câmara dos Deputados.
+Análise das proposições feitas entre 1998 e 2016 que estão disponíveis como dados abertos no site da Câmara dos Deputados. Dados dos anos de 2017 e 2018 ainda não estão disponíveis.
 
 Site: https://dadosabertos.camara.leg.br/swagger/api.html
 
