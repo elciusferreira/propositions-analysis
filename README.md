@@ -13,3 +13,14 @@ Nele é possível encontrar arquivos no formato json com informações referente
 Foi feito o download dos 5 arquivos que posteriormente foram transformados em outros 5 no formato csv por um script implementado em python que realiza o parsing.
 
 Uma análise individual foi feita para cada um dos 5 arquivos e, por fim, todos os csv's foram unidos em um único, para que fosse realizada uma análise gráfica geral, ou seja, de 1998 até 2018.
+
+Foram examinadas as relações entre:
+* Proposições x Estados
+* Proposições x Gênero
+* Proposições x Temas
+* Proposições x Tipo do Autor
+* Proposições x Ano
+* Proposições x Região
+* Proposições x Tipos
+* Proposições x Partidos Políticos
+* Proposições x Nome do Parlamentar
